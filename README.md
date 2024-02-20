@@ -1,4 +1,4 @@
-![vibhorarya12@gmail com (1)](https://github.com/vibhorarya12/vibhorarya12/assets/135149764/16ed3c74-f44e-42ce-8baf-41d0a22c36f0)
+![final](https://github.com/vibhorarya12/vibhorarya12/assets/135149764/069768a5-05eb-4e57-b803-db65abec59b8)
 # 💫 About Me:
  Hey there! I'm Vibhor Arya, a grad student pursuing a Masters in Computer Applications. I'm passionate about web and Android development, as well as deep learning. Join me on my journey of building cool stuff and exploring the latest in tech!
 
