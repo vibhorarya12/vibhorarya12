@@ -16,7 +16,7 @@
 
 ### My latest work 💻
 
-<a href="https://github.com/vibhorarya12/Amaze-Carte" target="_blank">
+<a href="https://github.com/vibhorarya12/Amaze-Cart" target="_blank">
     <img src="https://github.com/user-attachments/assets/9266bcd4-c8ca-4f2a-a3ba-0f337ec1165e" style="border-radius: 50px; width: 100%;" alt="Image"/>
 </a>
 
