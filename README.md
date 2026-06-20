@@ -14,7 +14,30 @@
 
 ### My latest work 💻
 
-<a href="https://github.com/vibhorarya12/Amaze-Cart" target="_blank">
-    <img src="https://github.com/user-attachments/assets/9266bcd4-c8ca-4f2a-a3ba-0f337ec1165e" style="border-radius: 50px; width: 100%;" alt="Image"/>
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/vibhorarya12/Amaze-Cart" target="_blank">
+        <img src="https://github.com/user-attachments/assets/9266bcd4-c8ca-4f2a-a3ba-0f337ec1165e" style="border-radius: 50px; width: 100%;" alt="Amaze Cart"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/vibhorarya12/Movies_app" target="_blank">
+        <img src="https://github.com/vibhorarya12/My-Utility/blob/main/PublicImages/portfolio/oTdkIQ07Qde7_1024_500.png?raw=true" style="border-radius: 50px; width: 100%;" alt="Project 2"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/vibhorarya12/AdminSphere-Android-app" target="_blank">
+        <img src="https://github.com/vibhorarya12/My-Utility/blob/main/PublicImages/portfolio/main.png?raw=true" style="border-radius: 50px; width: 100%;" alt="Project 3"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/vibhorarya12/AmazeTalk-MERN-CHAT-APP" target="_blank">
+        <img src="https://github.com/vibhorarya12/AmazeTalk-MERN-CHAT-APP/raw/main/client/amazetalk/screenshot/main.png" style="border-radius: 50px; width: 100%;" alt="AmazeTalk"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
