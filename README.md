@@ -1,5 +1,5 @@
 
-![Blue And Green Professional Technology LinkedIn Banner](https://github.com/user-attachments/assets/04bcbe32-a7ca-453d-a016-b41fc2508cfb)
+<img width="800" height="320" alt="ChatGPT Image Jun 21, 2026, 03_45_51 PM" src="https://github.com/user-attachments/assets/62a828de-e741-46b2-8e75-12c69395fb3e" />
 
 # 💫 About Me:
 ### Hey there! I'm Vibhor Arya, a dedicated web and Android developer. Join me on my journey as I create innovative solutions and explore the latest trends in technology!
