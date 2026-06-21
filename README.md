@@ -12,32 +12,38 @@
 </p>
 
 
-### My latest work 💻
 
+### My latest work 💻
 <table>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/vibhorarya12" target="_blank">
+        <img width="1536" height="950" alt="Banner" src="https://github.com/user-attachments/assets/00e64a5e-0cb8-4765-b092-6b45e2e16b7e" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/vibhorarya12/Amaze-Cart" target="_blank">
-        <img src="https://github.com/user-attachments/assets/9266bcd4-c8ca-4f2a-a3ba-0f337ec1165e" style="border-radius: 50px; width: 100%;" alt="Amaze Cart"/>
+        <img src="https://github.com/user-attachments/assets/9266bcd4-c8ca-4f2a-a3ba-0f337ec1165e" width="100%" alt="Amaze Cart"/>
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/vibhorarya12/Movies_app" target="_blank">
-        <img src="https://github.com/vibhorarya12/My-Utility/blob/main/PublicImages/portfolio/oTdkIQ07Qde7_1024_500.png?raw=true" style="border-radius: 50px; width: 100%;" alt="Project 2"/>
+        <img src="https://github.com/vibhorarya12/My-Utility/blob/main/PublicImages/portfolio/oTdkIQ07Qde7_1024_500.png?raw=true" width="100%" alt="Movies App"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/vibhorarya12/AdminSphere-Android-app" target="_blank">
-        <img src="https://github.com/vibhorarya12/My-Utility/blob/main/PublicImages/portfolio/main.png?raw=true" style="border-radius: 50px; width: 100%;" alt="Project 3"/>
+        <img src="https://github.com/vibhorarya12/My-Utility/blob/main/PublicImages/portfolio/main.png?raw=true" width="100%" alt="AdminSphere"/>
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/vibhorarya12/AmazeTalk-MERN-CHAT-APP" target="_blank">
-        <img src="https://github.com/vibhorarya12/AmazeTalk-MERN-CHAT-APP/raw/main/client/amazetalk/screenshot/main.png" style="border-radius: 50px; width: 100%;" alt="AmazeTalk"/>
+        <img src="https://github.com/vibhorarya12/AmazeTalk-MERN-CHAT-APP/raw/main/client/amazetalk/screenshot/main.png" width="100%" alt="AmazeTalk"/>
       </a>
     </td>
   </tr>
 </table>
-
