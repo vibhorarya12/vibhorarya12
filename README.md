@@ -6,8 +6,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vibhorarya12&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhorarya12&layout=compact&theme=dark)](https://github.com/vibhorarya12/github-readme-stats)
-
 <p align="left">
 </p>
 
