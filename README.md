@@ -15,8 +15,8 @@
 <table>
   <tr>
     <td colspan="2">
-      <a href="https://github.com/vibhorarya12" target="_blank">
-        <img width="1536" height="950" alt="Banner" src="https://eventimist.vercel.app/" />
+      <a href="https://eventimist.vercel.app/" target="_blank">
+        <img width="1536" height="950" alt="Banner" src="https://github.com/user-attachments/assets/00e64a5e-0cb8-4765-b092-6b45e2e16b7e" />
       </a>
     </td>
   </tr>
